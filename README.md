@@ -18,4 +18,4 @@
 - Plugin: Spring Initializr
 
 ## Anexos:
-- [Detalle de generación del API y comprobación del funcionamiento](https://epnecuador-my.sharepoint.com/:w:/g/personal/dennis_lincango_epn_edu_ec/EeSaUUxdRnlGrQup6GVVRs8BwDMQzutLqCLXoJOOQ9Pv7w?e=YPfZhQ)
+- [Detalle de generación del API y comprobación del funcionamiento]()
