@@ -6,7 +6,7 @@
 - Lincango Dennis
 - Miranda Glender
 
-## El API contiente los siguientes atributos:
+## El API contiene los siguientes atributos:
 
 - id
 - name
